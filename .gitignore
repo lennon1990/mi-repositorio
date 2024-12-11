@@ -3,7 +3,7 @@
 *.tmp
 
 # Configuraciones de entornos de desarrollo
-# .env
+.env
 .vscode/
 
 # Archivos compilados
