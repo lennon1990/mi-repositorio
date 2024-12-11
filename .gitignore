@@ -1,0 +1,15 @@
+# Archivos temporales del sistema operativo
+*.log
+*.tmp
+
+# Configuraciones de entornos de desarrollo
+.env
+.vscode/
+
+# Archivos compilados
+/dist/
+/node_modules/
+
+# Configuraciones personales
+.DS_Store
+Thumbs.db
